@@ -5,3 +5,4 @@ While downloading large files (programs, games, etc.) to your computer. You can 
 [Features]
 System tray minimization
 Log informations
+.
