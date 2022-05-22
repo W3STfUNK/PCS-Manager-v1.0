@@ -8,7 +8,6 @@ While downloading large files (programs, games, etc.) to your computer. You can 
 **Log informations <br />
 
 [user manual] <br />
-
 The duration calculation must be based on the time zone. Sample;  <br />
 If you want it to turn off after 2 hours and 15 minutes, you have to type 2.25.  <br />
 The value to be noted here is the value after the comma is fixed to 60.  <br />
