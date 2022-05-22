@@ -20,4 +20,4 @@ rudely, the difference between them; <br />
 2.60 = over two and a half hours (2:36) <br />
 2.88 = two hours fifty two minutes eight seconds (2:52:8).. and such that<br />
 
-x = x*60 = minutes to system off; <br />
+[x = x*60 = minutes to system off] <br />
